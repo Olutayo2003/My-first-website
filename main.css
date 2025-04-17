@@ -167,7 +167,7 @@ form {
   padding: 40px;
   width: 400px;
   height: 100%;
-  backdrop-filter: brightness(40%);
+  backdrop-filter: brightness(10%);
   flex-direction: column;
   display: flex;
   gap: 5px;
@@ -311,7 +311,7 @@ button {
     padding: 40px;
     width: 400px;
     height: 100%;
-    backdrop-filter: brightness(40%);
+    backdrop-filter: brightness(10%);
     flex-direction: column;
     display: flex;
     gap: 5px;
@@ -359,7 +359,7 @@ button {
     padding: 40px;
     width: 400px;
     height: 100%;
-    backdrop-filter: brightness(40%);
+    backdrop-filter: brightness(10%);
     flex-direction: column;
     display: flex;
     gap: 5px;
