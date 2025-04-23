@@ -374,7 +374,7 @@ span {
     border-radius: 20px;
     display: block;
     box-sizing: border-box;
-    padding: 40px;
+    padding: 15px;
     width: 400px;
     height: 100%;
     backdrop-filter: brightness(10%);
